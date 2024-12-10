@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.group11.classicmodels"},{"l":"com.group11.classicmodels.app"}];updateSearchResults();
